@@ -10,7 +10,7 @@ function MobileTopHeader() {
           앱에서 더 쉽고 빠르게 이용해보세요!
         </span>
       </div>
-      <div className="bg-green-500 text-white font-bold px-3 py-[6px] text-[12px] rounded-full">
+      <div className="bg-yellow-500 text-white font-bold px-3 py-[6px] text-[12px] rounded-full">
         <span>앱 다운로드</span>
       </div>
     </header>

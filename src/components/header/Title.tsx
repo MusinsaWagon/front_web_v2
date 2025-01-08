@@ -1,5 +1,5 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
+
 function Title() {
   return (
     <div className="bg-white flex text-center font-bold text-lg justify-center">
